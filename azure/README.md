@@ -19,7 +19,7 @@ Installiert [Git/Bash](https://git-scm.com/downloads), [Azure CLI](https://docs.
 
 Git/Bash Kommandozeile (CLI) starten und dieses Repository clonen.
 
-    git clone https://github.com/mc-b/duk
+    git clone https://github.com/mschuler/duk
     cd duk/azure
     
 Azure Zugang einrichten

@@ -16,7 +16,7 @@ Installiert [Git/Bash](https://git-scm.com/downloads), [AWS CLI](https://aws.ama
 
 Git/Bash Kommandozeile (CLI) starten und dieses Repository clonen.
 
-    git clone https://github.com/mc-b/duk
+    git clone https://github.com/mschuler/duk
     cd duk/aws
     
 AWS Zugang einrichten

@@ -12,7 +12,7 @@ Installiert [Git/Bash](https://git-scm.com/downloads), [Multipass](https://multi
 
 Git/Bash Kommandozeile (CLI) starten und dieses Repository clonen.
 
-    git clone https://github.com/mc-b/duk
+    git clone https://github.com/mschuler/duk
     cd duk
     
 Terraform Initialisieren und VMs erstellen
@@ -26,7 +26,7 @@ Nach erfolgreicher Installation werden weitere Informationen für den Zugriff au
 
 ### Client Umgebung (Experimentell)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mc-b/duk)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mschuler/duk)
 
 ### Weitere Beispiele (unsupported)
 

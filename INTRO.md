@@ -1,7 +1,7 @@
 Kubernetes
 ==========
 
-Umgebung zum Kurs: [Docker und Kubernetes – Übersicht und Einsatz](https://github.com/mc-b/duk).
+Umgebung zum Kurs: [Docker und Kubernetes – Übersicht und Einsatz](https://github.com/mschuler/duk).
 
 Mit Master verbinden und `microk8s add-node` ausführen. Die Ausgabe ist dann jeweils, mittels Voranstellung von `sudo`, auf dem Worker auszuführen.
 
